@@ -7,7 +7,7 @@
 ## Sobre mim
 - 🎓 Cursando Engenharia de Software na Universidade Cidade de São Paulo
 - 🔭 Atualmente estudando: Git/GitHub, Python, C, HTML/CSS.
-- 🎯 Objetivo: Atuar com desenvolvimento Web e dados
+- 🎯 Objetivo: Atuar com desenvolvimento Web
 - 📫 Contato: joaovictorfavayamada@gmail.com | www.linkedin.com/in/joao-victor-fava-a7926b1a5
 
 ## Tecnologias
@@ -16,9 +16,10 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Projetos em destaque
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
 | [Criptografia-CF-PA](https://github.com/joao-fava/Criptografia-CF-PA) | Criptografia em duas camadas: Cifra de César + Progressão Aritmética | C |
-| [site-pethouse](https://github.com/joao-fava/site-pethouse) | Site para pet shop com ligação direta aos fornecedores. Projeto em equipe, onde fui responsável por realizar a estruturação do código. | HTML, CSS |
+| [site-pethouse](https://github.com/joao-fava/site-pethouse) | Site para pet shop com ligação direta aos fornecedores. Projeto em equipe, onde fui responsável pela estrutura em HTML e pela organização do código do projeto. | HTML, CSS |
